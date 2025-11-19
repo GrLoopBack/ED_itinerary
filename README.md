@@ -1,9 +1,9 @@
 # ED_itinerary
 Copies your next destination to a clipboard from a txt file. 
-Use pansh.co.uk/tourist/ to get a optimal path frm A to Z via what ever systems you need. 
+Use spansh.co.uk/tourist/ to get the optimal path from A to Z via whatever systems you need. 
 
 If you skip a destination, it will let you know.
-Ignores visists to systems not on your itinerary.txt
+Ignores visits to systems not on your itinerary.txt
 
 Your config.json file should look like this
 ```
